@@ -3,7 +3,7 @@
 <p align="center">
   <img alt="糖葫芦" src="screenshot/Logo.png"/>
 </p>
-appletv的浏览器
+appletv的浏览器   testflight地址 https://testflight.apple.com/join/QWne6G6V
 目前自己一直在用appletv 上使用起飞了浏览器，但是发现有些操作存在一些问题，自己参考后做了一些操作上的优化
 因为政策的原因，这个估计只能闭源。
 上传描述文档，目前没有app开发者账号
