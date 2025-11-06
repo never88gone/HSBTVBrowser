@@ -4,10 +4,10 @@
   <img alt="糖葫芦" src="screenshot/Logo.png"/>
 </p>
 appletv的浏览器   testflight地址 [https://testflight.apple.com/join/QWne6G6V ]()</br>
-目前自己一直在用appletv 使用Unplay，使用过程中发现了一些问题，自己尝试做一款同样的类似的的投屏软件。
+目前自己一直在用appletv 使用Unplay，使用过程中发现了一些问题，自己尝试做一款同样的类似的的投屏软件，并且解决遇到的一些不合理的问题。
 
 # 首页
-目前只有一个工具，输入url，会跳转到对应的网页上
+默认打开显示时钟页面
 <p align="center">
   <img alt="糖葫芦" src="screenshot/clock.png" />
 </p>
