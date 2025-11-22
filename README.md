@@ -21,7 +21,7 @@ appletv的浏览器   testflight地址 https://testflight.apple.com/join/QWne6G6
 【触摸模式】触摸区域点击后实现mousedown，滚动实现mousemove，抬起后实现mouseend，有些验证码页面可用，部分页面【光标模式】的点击无效时候可以使用。<br>
 
 # 首页
-这里需要注意，首页有可能是个时钟，是为了避免apple审核，当时首页显示时钟的时候需要长按播放按钮，就会出现当前首页
+这里需要注意，首页有可能是个时钟，是为了避免apple审核，当时首页显示时钟的时候需要双击播放按钮，就会出现当前首页
 目前只有一个工具，输入url，会跳转到对应的网页上
 <p align="center">
   <img alt="糖葫芦" src="screenshot/home.png" />
