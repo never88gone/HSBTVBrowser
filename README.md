@@ -1,60 +1,44 @@
-# 糖葫芦播放器
+# 糖葫芦浏览器
 
 <p align="center">
   <img alt="糖葫芦" src="screenshot/Logo.png"/>
 </p>
-appletv的浏览器   testflight地址 [https://testflight.apple.com/join/QWne6G6V ]()</br>
-目前自己一直在用appletv 使用Unplay，使用过程中发现了一些问题，自己尝试做一款同样的类似的的投屏软件，并且解决遇到的一些不合理的问题。
+appletv的浏览器   testflight地址 https://testflight.apple.com/join/QWne6G6V
+目前自己一直在用appletv 上使用起飞了浏览器，但是发现有些操作存在一些问题，自己参考后做了一些操作上的优化
+因为政策的原因，这个估计只能闭源。
+上传描述文档，目前没有app开发者账号
+正在尝试解决一些问题，后续会提供testflight地址</p>
+
+1:双击【播放/暂停】可显示包含更多选项的高级菜单</p>
+2:长按【播放/暂停】可以直接打开播放器屏播放视频</p>
+3:点击【播放/暂停】可以控制视频的播放暂停</p>
+4:点击【菜单】按钮可返回，或在根页面上退出</p>
+5:点击【左/右】按钮可以控制视频的快进</p>
+6:点击【上/下】按钮可以控制页面往下滚动，部分网页可以控制视频的上翻/下翻操作</p>
+7:双击触摸区域，可以实现光标模式/滚动模式/触摸模式的切换</p>
+【光标模式】光标显示在页面上，点击触摸区域后 实现页面的点击事件<br>
+【滚动模式】通过触摸区域的上下滑动，实现页面的滚动<br>
+【触摸模式】触摸区域点击后实现mousedown，滚动实现mousemove，抬起后实现mouseend，有些验证码页面可用，部分页面【光标模式】的点击无效时候可以使用。<br>
 
 # 首页
-默认打开显示时钟页面
+这里需要注意，首页有可能是个时钟，是为了避免apple审核，当时首页显示时钟的时候需要长按播放按钮，就会出现当前首页
+目前只有一个工具，输入url，会跳转到对应的网页上
 <p align="center">
-  <img alt="糖葫芦" src="screenshot/clock.png" />
+  <img alt="糖葫芦" src="screenshot/home.png" />
 </p>
-点击遥控器器上的downArrow按钮，会显示底部菜单
-<p align="center">
-  <img alt="糖葫芦" src="screenshot/clockbottom.png" />
-</p>
+# 收藏
+收藏的页面会显示到这里
+# 历史
+浏览历史记录会显示到这里
 # 设置
 app的相关设置会显示在这里
 <p align="center">
-  <img alt="糖葫芦" src="screenshot/clocksetting.png" />
+  <img alt="糖葫芦" src="screenshot/setting.gif" />
 </p>
-# DLNA投屏
-以b站为例,点击播放页面的投屏按钮后，投屏设备选项后添加上【糖葫芦】的选项
+# 浏览器
+以抖音为例子,首页进入抖音，可以通过触摸板控制鼠标位置，双击播放按钮，可以弹出高级选项，上下按钮可以上一个、下一个视频。
 <p align="center">
-  <img alt="糖葫芦" src="screenshot/iphoneAirplay.png" width ="400px"/>
+  <img alt="糖葫芦" src="screenshot/browser.gif" />
 </p>
-<p align="center">
-  <img alt="糖葫芦" src="screenshot/airplayVideo.png" />
-</p>
-# 后续开发计划
-1. 增加更多始终的时钟样式
-2. 设置页面完善，增加更多配置选项
-3. 投屏增加B站的投屏，目前使用的DLNA标准投屏，目前已知B站的协议是公开的，网上有成熟的示例
-4. 增加不同的播放器选项，目前只支持系统默认提供的AVPlayer
-
-### Telegram Group
- - https://t.me/appletvbilibilidemo
-
-### Links
-
-- [debugly/fsplayer](https://github.com/debugly/fsplayer)
-- [ikishorek/TVVLCKit](https://github.com/ikishorek/TVVLCKit)
-- [SnapKit/Masonry](https://github.com/SnapKit/Masonry)
-- [jsonmodel/jsonmodel](https://github.com/jsonmodel/jsonmodel)
-- [CocoaLumberjack/CocoaLumberjack](https://github.com/CocoaLumberjack/CocoaLumberjack)
-- [SDWebImage/SDWebImage](https://github.com/SDWebImage/SDWebImage)
-- [zattoo/TvOSSlider](https://github.com/zattoo/TvOSSlider)
--  [lechium/KBBulletinView](https://github.com/lechium/KBBulletinView)
--  [zattoo/TvOSSlider](https://github.com/zattoo/TvOSSlider)
--  [vtourraine/VTAcknowledgementsViewController](https://github.com/vtourraine/VTAcknowledgementsViewController)
--  [AliSoftware/Reusable](https://github.com/AliSoftware/Reusable)
--  [nicklockwood/GZIP](https://github.com/nicklockwood/GZIP)
--  [AliSoftware/Reusable](https://github.com/AliSoftware/Reusable)
--  [robbiehanson/CocoaAsyncSocket](https://github.com/robbiehanson/CocoaAsyncSocket)
--  [SwiftyJSON/SwiftyJSON](https://github.com/SwiftyJSON/SwiftyJSON)
--  [yichengchen/swifter](https://github.com/yichengchen/swifter)
--  [mattt/Ono](https://github.com/mattt/Ono)
--  [yichengchen/ATV-Bilibili-demo](https://github.com/yichengchen/ATV-Bilibili-demo)
--  [steventroughtonsmith/tvOSBrowser](https://github.com/steventroughtonsmith/tvOSBrowser)
+# releases
+-  [releases.md](https://github.com/never88gone/HSBTVBrowser/releases.md)
