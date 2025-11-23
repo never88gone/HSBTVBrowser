@@ -35,7 +35,7 @@ app的相关设置会显示在这里
 4. 增加不同的播放器选项，目前只支持系统默认提供的AVPlayer
 
 ### Telegram Group
- - https://t.me/appletvbilibilidemo
+
 
 ### Links
 
