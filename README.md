@@ -44,8 +44,9 @@ app的相关设置会显示在这里
 <p align="center">
   <img alt="糖葫芦" src="screenshot/videoplayprocess.png" />
 </p>
-# releases
--  [releases.md](https://github.com/never88gone/HSBTVBrowser/blob/main/releases.md?plain=1)
+### releases
+
+- [releases.md](https://github.com/never88gone/HSBTVBrowser/blob/main/releases.md?plain=1)
 
 ### Telegram Group
 -  [https://t.me/tanghulutvos](https://t.me/tanghulutvos)
