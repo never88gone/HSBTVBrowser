@@ -7,8 +7,7 @@ appletv的上使用的浏览器
 目前自己一直在用appletv 上使用起飞了浏览器，但是发现有些操作存在一些问题，自己参考后做了一些操作上的优化。
 因为政策的原因，这个估计只能闭源。</p>
 testflight地址 
--  [https://testflight.apple.com/join/QWne6G6V](https://testflight.apple.com/join/QWne6G6V)
-<br>
+[https://testflight.apple.com/join/QWne6G6V](https://testflight.apple.com/join/QWne6G6V)
 
 部分操作说明<br>
 1:双击【播放/暂停】可显示包含更多选项的高级菜单<br>
