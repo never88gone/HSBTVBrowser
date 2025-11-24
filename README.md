@@ -40,5 +40,33 @@ app的相关设置会显示在这里
 <p align="center">
   <img alt="糖葫芦" src="screenshot/browser.gif" />
 </p>
+如果当前页面正在播放视频，可以通过左右按键显示播放进度，并且可以调整进度，进度栏显示在页面的顶部。
+<p align="center">
+  <img alt="糖葫芦" src="screenshot/videoplayprocess.png" />
+</p>
 # releases
--  [releases.md](https://github.com/never88gone/HSBTVBrowser/releases.md)
+-  [releases.md](https://github.com/never88gone/HSBTVBrowser/blob/main/releases.md?plain=1)
+
+### Telegram Group
+-  [https://t.me/tanghulutvos](https://t.me/tanghulutvos)
+### Links
+
+- [debugly/fsplayer](https://github.com/debugly/fsplayer)
+- [ikishorek/TVVLCKit](https://github.com/ikishorek/TVVLCKit)
+- [SnapKit/Masonry](https://github.com/SnapKit/Masonry)
+- [jsonmodel/jsonmodel](https://github.com/jsonmodel/jsonmodel)
+- [CocoaLumberjack/CocoaLumberjack](https://github.com/CocoaLumberjack/CocoaLumberjack)
+- [SDWebImage/SDWebImage](https://github.com/SDWebImage/SDWebImage)
+- [zattoo/TvOSSlider](https://github.com/zattoo/TvOSSlider)
+-  [lechium/KBBulletinView](https://github.com/lechium/KBBulletinView)
+-  [zattoo/TvOSSlider](https://github.com/zattoo/TvOSSlider)
+-  [vtourraine/VTAcknowledgementsViewController](https://github.com/vtourraine/VTAcknowledgementsViewController)
+-  [AliSoftware/Reusable](https://github.com/AliSoftware/Reusable)
+-  [nicklockwood/GZIP](https://github.com/nicklockwood/GZIP)
+-  [AliSoftware/Reusable](https://github.com/AliSoftware/Reusable)
+-  [robbiehanson/CocoaAsyncSocket](https://github.com/robbiehanson/CocoaAsyncSocket)
+-  [SwiftyJSON/SwiftyJSON](https://github.com/SwiftyJSON/SwiftyJSON)
+-  [yichengchen/swifter](https://github.com/yichengchen/swifter)
+-  [mattt/Ono](https://github.com/mattt/Ono)
+-  [yichengchen/ATV-Bilibili-demo](https://github.com/yichengchen/ATV-Bilibili-demo)
+-  [steventroughtonsmith/tvOSBrowser](https://github.com/steventroughtonsmith/tvOSBrowser)
