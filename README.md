@@ -9,16 +9,18 @@ appletv的上使用的浏览器
 testflight地址 <br>
 https://testflight.apple.com/join/QWne6G6V
 <br>部分操作说明<br>
-1:双击【播放/暂停】可显示包含更多选项的高级菜单<br>
-2:长按【播放/暂停】可以直接打开播放器屏播放视频<br>
-3:点击【播放/暂停】可以控制视频的播放暂停<br>
-4:点击【菜单】按钮可返回，或在根页面上退出<br>
-5:点击【左/右】按钮可以控制视频的快进<br>
-6:点击【上/下】按钮可以控制页面往下滚动，部分网页可以控制视频的上翻/下翻操作<br>
-7:双击触摸区域，可以实现光标模式/滚动模式/触摸模式的切换</p>
-【光标模式】光标显示在页面上，点击触摸区域后 实现页面的点击事件<br>
-【滚动模式】通过触摸区域的上下滑动，实现页面的滚动<br>
-【触摸模式】触摸区域点击后实现mousedown，滚动实现mousemove，抬起后实现mouseend，有些验证码页面可用，部分页面【光标模式】的点击无效时候可以使用。<br>
+1:双击【播放/暂停】可显示包含更多选项的高级菜单;<br>
+2:长按【播放/暂停】可以直接打开播放器全屏播放视频;<br>
+3:点击【播放/暂停】可以控制视频的播放暂停;<br>
+4:点击【菜单】按钮可返回，或在根页面上退出;<br>
+5:点击【左/右】按钮可以控制视频的快进，向左向右滑动触控区域可以控制视频的快进（需要到设置中打开）;<br>
+6:点击【上/下】按钮可以控制页面往下滚动，部分网页可以控制视频的上翻/下翻操作;<br>
+7:双击触摸区域，可以实现光标模式/滚动模式/触摸模式/触摸模式/拖动模式的切换;<br>
+【点击模式】光标显示在页面上，点击触摸区域后 实现页面的点击事件，部分页面采用的是iframe内嵌页面，可以长按iframe区域，新开窗口打开iframe;<br>
+【滚动模式】通过触摸区域的上下滑动，点击上下按钮，实现页面的滚动;<br>
+【触摸模式】触摸区域点击使用mousedown、mouseend实现点击，页面上的按钮需要使用点击模式点不中，有些验证码页面可以尝试使用，滚动实现mousemove，有些需要滑动鼠标才能显示的页面可以尝试使用;<br>
+【拖动模式】长按触摸区域选择需要拖动的元素，实现元素的拖动;<br>
+8:注意：如果当前网页正在播放视频，【播放/暂停】会被系统拦截，点击第一下会暂停视频，长按、双击操作都需要再次操作。<br>
 
 # 首页
 这里需要注意，首页有可能是个时钟，是为了避免apple审核，当时首页显示时钟的时候需要双击播放按钮，就会出现当前首页
@@ -44,12 +46,18 @@ app的相关设置会显示在这里
 <p align="center">
   <img alt="糖葫芦" src="screenshot/videoplayprocess.png" />
 </p>
+<p align="center">
+  <img alt="糖葫芦" src="screenshot/验证码拖动效果.gif" />
+</p>
 ### releases
 
 - [releases.md](https://github.com/never88gone/HSBTVBrowser/blob/main/releases.md?plain=1)
 
 ### Telegram Group
 -  [https://t.me/tanghulutvos](https://t.me/tanghulutvos)
+
+ <p align="center">
+  <img alt="糖葫芦" src="screenshot/telegram_icon.png" />
 ### Links
 
 - [debugly/fsplayer](https://github.com/debugly/fsplayer)
@@ -60,7 +68,6 @@ app的相关设置会显示在这里
 - [SDWebImage/SDWebImage](https://github.com/SDWebImage/SDWebImage)
 - [zattoo/TvOSSlider](https://github.com/zattoo/TvOSSlider)
 -  [lechium/KBBulletinView](https://github.com/lechium/KBBulletinView)
--  [zattoo/TvOSSlider](https://github.com/zattoo/TvOSSlider)
 -  [vtourraine/VTAcknowledgementsViewController](https://github.com/vtourraine/VTAcknowledgementsViewController)
 -  [AliSoftware/Reusable](https://github.com/AliSoftware/Reusable)
 -  [nicklockwood/GZIP](https://github.com/nicklockwood/GZIP)
