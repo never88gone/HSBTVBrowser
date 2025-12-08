@@ -57,7 +57,8 @@ app的相关设置会显示在这里
 -  [https://t.me/tanghulutvos](https://t.me/tanghulutvos)
 
  <p align="center">
-  <img alt="糖葫芦" src="screenshot/telegram_icon.png" />
+  <img alt="糖葫芦" src="screenshot/telegram_icon.png" /></p>
+  
 ### Links
 
 - [debugly/fsplayer](https://github.com/debugly/fsplayer)
