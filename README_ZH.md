@@ -1,5 +1,10 @@
 # 糖葫芦浏览器
 
+[![TestFlight](https://img.shields.io/badge/TestFlight-可用-blue?logo=apple&logoColor=white)](https://testflight.apple.com/join/QWne6G6V)
+[![Platform](https://img.shields.io/badge/平台-tvOS-lightgrey?logo=apple)](https://developer.apple.com/tvos/)
+[![License](https://img.shields.io/badge/协议-闭源-red)](https://github.com/never88gone/HSBTVBrowser)
+[![Telegram](https://img.shields.io/badge/Telegram-加入群组-blue?logo=telegram)](https://t.me/tanghulutvos)
+
 **简体中文** | [English](README.md)
 
 <p align="center">
