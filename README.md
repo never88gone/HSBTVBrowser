@@ -116,6 +116,14 @@ In the advanced menu, you can add custom buttons that execute corresponding JS s
   <img alt="Custom Buttons" src="screenshot/custombtn.gif" />
 </p>
 
+### Script Auto-Execution
+
+You can write scripts to implement automatic login, automatic clicking, and other operations. For example, writing a script to automatically log in to Douyin.
+
+<p align="center">
+  <img alt="Script Auto-Execution" src="screenshot/自动脚本_final.gif" />
+</p>
+
 ## Known Issues
 
 Currently known bugs that cannot be resolved in the short term:

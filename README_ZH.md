@@ -116,6 +116,14 @@ App 的相关设置会显示在这里。
   <img alt="自定义按钮" src="screenshot/custombtn.gif" />
 </p>
 
+### 脚本自动执行
+
+可以编写脚本实现自动登录、自动点击等操作。例如，通过编写脚本实现抖音的自动登录。
+
+<p align="center">
+  <img alt="脚本自动执行" src="screenshot/自动脚本_final.gif" />
+</p>
+
 ## 已知问题
 
 目前已知短期无法解决的 Bug：
