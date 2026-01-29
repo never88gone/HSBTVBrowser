@@ -58,7 +58,7 @@ https://testflight.apple.com/join/QWne6G6V
 App 的相关设置会显示在这里。
 
 <p align="center">
-  <img alt="糖葫芦设置" src="screenshot/setting.gif" />
+  <img alt="糖葫芦设置" src="screenshot/setting.png" />
 </p>
 
 ## 浏览器
@@ -66,7 +66,7 @@ App 的相关设置会显示在这里。
 以抖音为例子，首页进入抖音，可以通过触摸板控制鼠标位置，双击播放按钮，可以弹出高级选项，上下按钮可以上一个、下一个视频。
 
 <p align="center">
-  <img alt="糖葫芦浏览器" src="screenshot/browser.gif" />
+  <img alt="糖葫芦浏览器" src="screenshot/browser.png" />
 </p>
 
 如果当前页面正在播放视频，可以通过左右按键显示播放进度，并且可以调整进度，进度栏显示在页面的顶部。
@@ -77,6 +77,38 @@ App 的相关设置会显示在这里。
 
 <p align="center">
   <img alt="验证码拖动效果" src="screenshot/验证码拖动效果.gif" />
+</p>
+
+## 自定义玩法
+
+可以将本地上传的 JavaScript 文件上传到 App 中，实现高级自定义功能。
+
+### 脚本管理器
+
+通过脚本管理器，可以上传和管理自定义 JS 脚本文件。
+
+<p align="center">
+  <img alt="脚本管理器" src="screenshot/scriptmanager.png" />
+</p>
+
+### 网站设置
+
+在网站设置中，可以为特定网站设置自定义脚本，设置在以下时机执行：
+
+- **自定义全屏**：进入全屏时执行
+- **退出全屏**：退出全屏时执行
+- **加载完成后**：页面加载完成后执行
+
+<p align="center">
+  <img alt="网站设置" src="screenshot/douyinsetting.png" />
+</p>
+
+### 自定义按钮
+
+在高级菜单中，可以添加自定义按钮，点击按钮即可执行对应的 JS 脚本。
+
+<p align="center">
+  <img alt="自定义按钮" src="screenshot/custombtn.gif" />
 </p>
 
 ## 已知问题

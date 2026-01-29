@@ -58,7 +58,7 @@ Browsing history will be displayed here.
 App-related settings are displayed here.
 
 <p align="center">
-  <img alt="Tanghulu Settings" src="screenshot/setting.gif" />
+  <img alt="Tanghulu Settings" src="screenshot/setting.png" />
 </p>
 
 ## Browser
@@ -66,7 +66,7 @@ App-related settings are displayed here.
 Using Douyin as an example, you can access Douyin from the home page and control the mouse position using the trackpad. Double-click the play button to bring up advanced options. Use up/down buttons to navigate to previous/next video.
 
 <p align="center">
-  <img alt="Tanghulu Browser" src="screenshot/browser.gif" />
+  <img alt="Tanghulu Browser" src="screenshot/browser.png" />
 </p>
 
 If the current page is playing a video, you can use left/right buttons to display the playback progress and adjust it. The progress bar is displayed at the top of the page.
@@ -77,6 +77,38 @@ If the current page is playing a video, you can use left/right buttons to displa
 
 <p align="center">
   <img alt="CAPTCHA Drag Effect" src="screenshot/验证码拖动效果.gif" />
+</p>
+
+## Custom Features
+
+You can upload local JavaScript files to the app to implement advanced custom features.
+
+### Script Manager
+
+Through the script manager, you can upload and manage custom JS script files.
+
+<p align="center">
+  <img alt="Script Manager" src="screenshot/scriptmanager.png" />
+</p>
+
+### Website Settings
+
+In website settings, you can set custom scripts for specific websites to execute at the following times:
+
+- **Custom Fullscreen**: Execute when entering fullscreen
+- **Exit Fullscreen**: Execute when exiting fullscreen
+- **After Loading**: Execute after page loading is complete
+
+<p align="center">
+  <img alt="Website Settings" src="screenshot/douyinsetting.png" />
+</p>
+
+### Custom Buttons
+
+In the advanced menu, you can add custom buttons that execute corresponding JS scripts when clicked.
+
+<p align="center">
+  <img alt="Custom Buttons" src="screenshot/custombtn.gif" />
 </p>
 
 ## Known Issues
