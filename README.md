@@ -10,6 +10,8 @@
 
 A browser for Apple TV. I've been using a browser on Apple TV for a while, but found some operational issues, so I made some optimizations based on my own experience.
 
+You can watch TikTok, Douyin, Tencent Video, Youku, and other video platforms on Apple TV. More websites are being adapted.
+
 Due to policy reasons, this will likely remain closed source.
 
 > Now on Afdian (爱发电)
@@ -76,6 +78,35 @@ If the current page is playing a video, you can use left/right buttons to displa
 <p align="center">
   <img alt="CAPTCHA Drag Effect" src="screenshot/验证码拖动效果.gif" />
 </p>
+
+## Known Issues
+
+Currently known bugs that cannot be resolved in the short term:
+
+1. **MSE Video Playback Limitation**: Videos using MSE (Media Source Extensions) on platforms like iQiyi, Douyin Live, Migu Video, etc., cannot be played due to tvOS system restrictions and cannot be resolved in the short term
+2. **Iframe Operation Limitation**: Some pages with embedded iframes may not be operable
+3. **Playback Control Conflict**: When a video is playing on the page, the Play/Pause button is intercepted by the system and requires pausing the video first before using other functions
+
+## Important Notes
+
+### Memory Shortage Issues
+
+If the page displays a memory shortage error, here are the reasons and solutions:
+
+**Reasons:**
+
+1. The latest Apple TV only has 4GB of memory, and older models have even less
+2. Apple's memory is shared between RAM and VRAM. With modern TVs being 4K, VRAM consumes a significant amount of memory
+3. tvOS 26's fluid glass effect consumes a lot of memory
+4. The actual memory available to apps is very limited. Browsers are memory-intensive, especially when simulating a desktop environment. When webpages recognize the device as a desktop, memory usage becomes even more aggressive. This issue cannot be resolved in the short term
+5. This app uses the system's browser engine. The browser does not forcefully close other apps when consuming memory. If other apps consume too much memory, the system will close them, which requires manual user intervention
+
+**Solutions:**
+
+1. Close other background applications
+2. Restart the device
+3. Disable the dynamic glass effect in tvOS 26 settings for Apple TV
+4. Upgrade to a newer Apple TV model
 
 ## Release Notes
 
