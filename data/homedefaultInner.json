@@ -1,0 +1,35 @@
+[
+  {
+    "titleKey": "Popular Video",
+    "items": [
+      { "webTitle": "抖音", "webUrl": "https://www.douyin.com/?recommend=1"},
+      { "webTitle": "Bilibili", "webUrl": "https://www.bilibili.com/" },
+      { "webTitle": "腾讯视频", "webUrl": "https://v.qq.com/" },
+      { "webTitle": "优酷", "webUrl": "https://www.youku.com/" },
+      { "webTitle": "芒果TV", "webUrl": "https://www.mgtv.com/" },
+      { "webTitle": "YouTube", "webUrl": "https://www.youtube.com/" },
+      { "webTitle": "tiktok", "webUrl": "https://www.tiktok.com/" }
+    ]
+  },
+  {
+    "titleKey": "Popular Music",
+    "items": [
+      { "webTitle": "QQ音乐", "webUrl": "https://y.qq.com/" },
+      { "webTitle": "网易云音乐", "webUrl": "https://music.163.com/" },
+      { "webTitle": "酷狗音乐", "webUrl": "https://www.kugou.com/" }
+    ]
+  },
+  {
+    "titleKey": "Popular Live",
+    "items": [
+      { "webTitle": "Twitch", "webUrl": "https://www.twitch.tv/" },
+    ]
+  },
+  {
+    "titleKey": "Recommended",
+    "items": [
+        { "webTitle": "cibnabg", "webUrl": "https://h5v1.cibnabg.com/#/home" },
+        { "webTitle": "a123tv", "webUrl": "https://a123tv.com" }
+    ]
+  }
+]
