@@ -5,7 +5,7 @@
 [![License](https://img.shields.io/badge/License-Closed%20Source-red)](https://github.com/never88gone/HSBTVBrowser)
 [![Telegram](https://img.shields.io/badge/Telegram-Join%20Chat-blue?logo=telegram)](https://t.me/tanghulutvos)
 
-[简体中文](README_ZH.md) | **English**
+[简体中文](README_ZH.md) | **English** | [Türkçe](README_TR.md) | [Français](README_FR.md) | [日本語](README_JA.md) | [한국어](README_KO.md) | [Español](README_ES.md)
 
 <p align="center">
   <img alt="Tanghulu" src="screenshot/Logo.png"/>

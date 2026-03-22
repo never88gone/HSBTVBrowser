@@ -5,7 +5,7 @@
 [![License](https://img.shields.io/badge/协议-闭源-red)](https://github.com/never88gone/HSBTVBrowser)
 [![Telegram](https://img.shields.io/badge/Telegram-加入群组-blue?logo=telegram)](https://t.me/tanghulutvos)
 
-**简体中文** | [English](README.md)
+**简体中文** | [English](README.md) | [Türkçe](README_TR.md) | [Français](README_FR.md) | [日本語](README_JA.md) | [한국어](README_KO.md) | [Español](README_ES.md)
 
 <p align="center">
   <img alt="糖葫芦" src="screenshot/Logo.png"/>
