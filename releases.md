@@ -5,6 +5,16 @@
 3. 有些网页的按钮事件不一样，需要用户手动设置为触控模式才能点击。
 4. 页面正在播放视频的时候，playpause按键被系统拦截了，需要先暂停视频。
 
+#### 2026-04-19
+
+1. 糖葫芦浏览器跳转协议为thlbrowser。以外部跳转apple官网为例：thlbrowser://web?body={"url":"https://www.apple.com"}<br>
+糖葫芦TV：thltv<br>
+糖葫芦PDF：thlpdf<br>
+糖葫芦投屏：thlairplay<br>
+
+2.修复了一下检测到的闪退问题<br>
+3.发现一个内存泄露的问题<br>
+
 #### 2026-04-14
 
 1. 修复抖音直播跳转到详情页面点不动的bug。
