@@ -1,4 +1,4 @@
-# 糖葫芦浏览器
+# 糖葫芦浏览器 (Tanghulu Browser)
 
 [![TestFlight](https://img.shields.io/badge/TestFlight-可用-blue?logo=apple&logoColor=white)](https://testflight.apple.com/join/QWne6G6V)
 [![Platform](https://img.shields.io/badge/平台-tvOS-lightgrey?logo=apple)](https://developer.apple.com/tvos/)
@@ -11,15 +11,28 @@
   <img alt="糖葫芦" src="screenshot/Logo.png"/>
 </p>
 
-## 简介
+---
 
-Apple TV 上使用的浏览器。目前自己一直在用 Apple TV 上使用起飞了浏览器，但是发现有些操作存在一些问题，自己参考后做了一些操作上的优化。
+## 🌟 核心亮点与简介
 
-可以在 Apple TV 上观看 TikTok、抖音、腾讯视频、优酷等视频平台，更多网站正在适配中。
+**糖葫芦浏览器 (Tanghulu Browser)** 是一款**专为 Apple TV (tvOS) 深度定制的全能网页浏览器与视频播放神器**。我们重新定义了大屏电视上的网页浏览交互，针对 Apple TV 遥控器进行极致的操作与手势优化，让您在客厅大屏上以最爽的姿势自由冲浪！
 
-因为政策的原因，这个估计只能闭源。
+* 📺 **电视大屏视听**：在 Apple TV 上畅快播放 **TikTok、抖音、腾讯视频、优酷、Bilibili** 等主流音视频平台。
+* 🖱️ **极致遥控交互**：支持**点击模式/滚动模式/触摸模式/拖动模式**四种操作手势，完美解决电视浏览器操作不精准的痛点。
+* ⚙️ **黑科技自定义**：内置强大的 **JavaScript 脚本管理器**，支持本地上传并执行自定义 JS，轻松实现自动登录、自定义全屏等高阶玩法。
+* 🧭 **探索未来体验**：正在积极推进大模型智能语音控制、实时 AI 视频字幕翻译、WebKit 内核适配等多项前沿技术！
 
-> 入驻了爱发电
+> 💡 **如果您觉得本项目对您有帮助，欢迎点亮右上角的 Star 🌟 关注我们，您的支持是我们持续优化的最大动力！**
+> 
+> 📌 因 Apple 政策限制，本项目目前保持闭源。欢迎加入我们的 [Telegram 交流群](https://t.me/tanghulutvos) 参与内测或获取最新消息。
+
+---
+
+## 🗺️ 项目开发路线图 (Roadmap)
+
+我们正在全速探索项目的未来发展方向（包含大语言模型 LLM 深度集成、端侧 AI 交互等），欢迎查看我们最新的 [**Roadmap / 开发路线图**](roadmap.md) 获取详细的路线与规划！
+
+---
 
 ## TestFlight 地址
 

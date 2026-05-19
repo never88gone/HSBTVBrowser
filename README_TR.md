@@ -1,4 +1,4 @@
-# Tanghulu Tarayıcı
+# Tanghulu Tarayıcı (Tanghulu Browser)
 
 [![TestFlight](https://img.shields.io/badge/TestFlight-Mevcut-blue?logo=apple&logoColor=white)](https://testflight.apple.com/join/QWne6G6V)
 [![Platform](https://img.shields.io/badge/Platform-tvOS-lightgrey?logo=apple)](https://developer.apple.com/tvos/)
@@ -11,15 +11,29 @@
   <img alt="Tanghulu" src="screenshot/Logo.png"/>
 </p>
 
-## Giriş
+---
 
-Apple TV için bir tarayıcı. Bir süredir Apple TV'de başka bir tarayıcı kullanıyordum, ancak bazı operasyonel sorunlar buldum, bu yüzden kendi deneyimlerime göre bazı optimizasyonlar yaptım.
+## 🌟 Ana Özellikler & Giriş
 
-Apple TV'de TikTok, Douyin, Tencent Video, Youku ve diğer video platformlarını izleyebilirsiniz. Daha fazla web sitesi uyarlanıyor.
+**Tanghulu Browser**, **Apple TV (tvOS) için derinlemesine özelleştirilmiş, tam özellikli bir web tarayıcısı ve video oynatma aracıdır**. Apple TV kumandası için optimize edilmiş son derece pürüzsüz ve sezgisel bir tarama deneyimi sunarak büyük ekran etkileşimini yeniden tanımlıyoruz.
 
-Politika nedenlerinden dolayı, bu muhtemelen kapalı kaynak olarak kalacaktır.
+* 📺 **Büyük Ekranda Akış Keyfi**: Apple TV'nizde doğrudan **TikTok, Douyin, YouTube, Tencent Video, Bilibili** ve daha fazlasında sorunsuzca video izleyin.
+* 🖱️ **Optimize Edilmiş Kumanda Hareketleri**: TV tarayıcılarındaki hassasiyet ve giriş zorluklarını çözmek için dört özel kontrol modunu (**Tıklama, Kaydırma, Dokunma ve Sürükleme**) destekler.
+* ⚙️ **Gelişmiş Özel Script Desteği**: Yerleşik **JavaScript Script Yöneticisi**, otomatik girişler ve özelleştirilmiş tam ekran ayarlamaları gibi görevleri yürütmek için yerel JS dosyaları yüklemenize olanak tanır.
+* 🧭 **Geleceğe Yönelik Teknolojiler**: Yapay zekaya dayalı sesli navigasyon, gerçek zamanlı AI video altyazı çevirileri ve özel WebKit çalışma zamanı optimizasyonları gibi yeni nesil özellikleri aktif olarak geliştiriyoruz!
 
-> Şimdi Afdian'da (爱发电)
+> 💡 **Bu projeyi yararlı bulduysanız, desteğinizi göstermek için lütfen sağ üst köşedeki Star 🌟 düğmesine tıklayın! Desteğiniz en büyük motivasyon kaynağımızdır.**
+> 
+> 📌 Apple ekosistemi politika kısıtlamaları nedeniyle bu depo muhtemelen kapalı kaynak olarak kalacaktır. Beta güncellemelerini almak için [Telegram Grubumuza](https://t.me/tanghulutvos) katılın!
+
+
+---
+
+## 🗺️ Proje Yol Haritası (Roadmap)
+
+Derin LLM entegrasyonları, cihaz içi yapay zeka uzaktan sinerjisi ve yeni nesil TV deneyimleri dahil olmak üzere Tanghulu Browser'ın sınırlarını genişletmek için hızla ilerliyoruz. Gelecekte neler olacağını keşfetmek için lütfen [**Yol Haritamızı / Gelecek Planlarımızı**](roadmap.md) okuyun!
+
+---
 
 ## TestFlight URL
 

@@ -1,4 +1,4 @@
-# Navegador Tanghulu
+# Navegador Tanghulu (Tanghulu Browser)
 
 [![TestFlight](https://img.shields.io/badge/TestFlight-Disponible-blue?logo=apple&logoColor=white)](https://testflight.apple.com/join/QWne6G6V)
 [![Platform](https://img.shields.io/badge/Plataforma-tvOS-lightgrey?logo=apple)](https://developer.apple.com/tvos/)
@@ -11,15 +11,29 @@
   <img alt="Tanghulu" src="screenshot/Logo.png"/>
 </p>
 
-## Introducción
+---
 
-Un navegador para Apple TV. Llevaba tiempo usando un navegador en Apple TV pero encontré bastantes problemas operativos, así que hice algunas optimizaciones basadas en mi experiencia.
+## 🌟 Características Clave e Introducción
 
-Puedes ver TikTok, Douyin, Tencent Video, Youku y otras plataformas de video en Apple TV. Se están adaptando más sitios web en el futuro.
+**Tanghulu Browser** es un **navegador web y herramienta de reproducción de video con todas las funciones, profundamente adaptado para Apple TV (tvOS)**. Redefinimos la interacción en pantallas grandes para ofrecer una experiencia de navegación fluida e intuitiva, optimizada para el control remoto de Apple TV.
 
-Por razones políticas, este proyecto probablemente seguirá siendo de código cerrado.
+* 📺 **Streaming en Gran Pantalla**: Disfruta de videos en **TikTok, Douyin, Tencent Video, Youku, Bilibili** y más, directamente en tu Apple TV.
+* 🖱️ **Gestos de Control Remoto Optimizados**: Soporta cuatro modos especiales de control—**Clic, Desplazamiento, Táctil y Arrastre**—para resolver cualquier problema de precisión en navegadores de TV.
+* ⚙️ **Scripts Personalizados Avanzados**: El **Gestor de Scripts JS** integrado permite subir archivos JS locales para automatizar inicios de sesión, ajustes de pantalla completa y más.
+* 🧭 **Innovaciones y Tecnologías del Futuro**: ¡Desarrollando navegación por voz inteligente mediante IA, traducción de subtítulos de video en tiempo real y optimización del motor WebKit!
 
-> Ahora en Afdian (爱发电)
+> 💡 **Si este proyecto te resulta útil, ¡dale una estrella 🌟 en la esquina superior derecha para apoyarnos! Tu apoyo es nuestra mayor motivación.**
+> 
+> 📌 Debido a las políticas de Apple, este proyecto probablemente seguirá siendo de código cerrado. ¡Únete a nuestro [Grupo de Telegram](https://t.me/tanghulutvos) para obtener versiones beta y novedades!
+
+
+---
+
+## 🗺️ Hoja de Ruta del Proyecto (Roadmap)
+
+Estamos avanzando rápidamente para expandir las fronteras de Tanghulu Browser, incluyendo la integración profunda de modelos de lenguaje (LLM), control por IA y más. ¡Lee nuestra [**Hoja de Ruta / Planes Futuros**](roadmap.md) para explorar lo que viene!
+
+---
 
 ## URL de TestFlight
 

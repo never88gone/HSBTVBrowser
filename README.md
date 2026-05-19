@@ -11,15 +11,28 @@
   <img alt="Tanghulu" src="screenshot/Logo.png"/>
 </p>
 
-## Introduction
+---
 
-A browser for Apple TV. I've been using a browser on Apple TV for a while, but found some operational issues, so I made some optimizations based on my own experience.
+## 🌟 Introduction & Core Highlights
 
-You can watch TikTok, Douyin, Tencent Video, Youku, and other video platforms on Apple TV. More websites are being adapted.
+**Tanghulu Browser** is a **fully featured web browser and video playback tool deeply tailored for Apple TV (tvOS)**. We have re-engineered large-screen interaction to deliver an incredibly smooth, intuitive browsing experience customized for the Apple TV remote.
 
-Due to policy reasons, this will likely remain closed source.
+* 📺 **Uncompressed Big-Screen Streaming**: Effortlessly stream videos on **TikTok, Douyin, YouTube, Tencent Video, Bilibili**, and more directly on Apple TV.
+* 🖱️ **Optimized Remote Gestures**: Supports four specialized control modes—**Click, Scroll, Touch, and Drag**—to resolve any precision and input challenges on TV browsers.
+* ⚙️ **Powerful Custom Scripting**: Built-in **JavaScript Script Manager** allows uploading local JS files to auto-execute tasks like automated logins, customized full-screen adjustments, and much more.
+* 🧭 **AI & Future-Proof Technologies**: Actively developing next-generation features, including LLM-driven voice navigation, real-time AI subtitle translations, and custom WebKit runtime optimizations.
 
-> Now on Afdian (爱发电)
+> 💡 **If you find this project helpful, please give us a Star 🌟 at the top-right corner to show your support!**
+> 
+> 📌 Due to Apple ecosystem policy constraints, this repository will likely remain closed-source. Join our [Telegram Group](https://t.me/tanghulutvos) to get beta updates!
+
+---
+
+## 🗺️ Project Roadmap
+
+We are moving fast to expand Tanghulu Browser's boundaries, including deep LLM integrations, on-device AI remote synergy, and next-gen TV experiences. Please read our [**Roadmap / Future Plans**](roadmap.md) to explore what's coming next!
+
+---
 
 ## TestFlight URL
 
