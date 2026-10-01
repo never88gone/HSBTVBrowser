@@ -1,6 +1,6 @@
 # Tanghulu Browser
 
-[![TestFlight](https://img.shields.io/badge/TestFlight-Available-blue?logo=apple&logoColor=white)](https://testflight.apple.com/join/QWne6G6V)
+[![TestFlight](https://img.shields.io/badge/TestFlight-Available-blue?logo=apple&logoColor=white)](https://testflight.apple.com/join/WpRhUUyp)
 [![Platform](https://img.shields.io/badge/Platform-tvOS-lightgrey?logo=apple)](https://developer.apple.com/tvos/)
 [![License](https://img.shields.io/badge/License-Closed%20Source-red)](https://github.com/never88gone/HSBTVBrowser)
 [![Telegram](https://img.shields.io/badge/Telegram-Join%20Chat-blue?logo=telegram)](https://t.me/tanghulutvos)
@@ -36,7 +36,7 @@ We are moving fast to expand Tanghulu Browser's boundaries, including deep LLM i
 
 ## TestFlight URL
 
-<https://testflight.apple.com/join/QWne6G6V>
+<https://testflight.apple.com/join/WpRhUUyp>
 
 ## Operation Instructions
 

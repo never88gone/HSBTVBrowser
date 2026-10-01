@@ -1,6 +1,6 @@
 # 糖葫芦ブラウザ (Tanghulu Browser)
 
-[![TestFlight](https://img.shields.io/badge/TestFlight-利用可能-blue?logo=apple&logoColor=white)](https://testflight.apple.com/join/QWne6G6V)
+[![TestFlight](https://img.shields.io/badge/TestFlight-利用可能-blue?logo=apple&logoColor=white)](https://testflight.apple.com/join/WpRhUUyp)
 [![Platform](https://img.shields.io/badge/プラットフォーム-tvOS-lightgrey?logo=apple)](https://developer.apple.com/tvos/)
 [![License](https://img.shields.io/badge/ライセンス-クローズドソース-red)](https://github.com/never88gone/HSBTVBrowser)
 [![Telegram](https://img.shields.io/badge/Telegram-参加する-blue?logo=telegram)](https://t.me/tanghulutvos)
@@ -37,7 +37,7 @@
 
 ## TestFlight URL
 
-<https://testflight.apple.com/join/QWne6G6V>
+<https://testflight.apple.com/join/WpRhUUyp>
 
 ## 操作方法
 

@@ -1,6 +1,6 @@
 # 탕후루 브라우저 (Tanghulu Browser)
 
-[![TestFlight](https://img.shields.io/badge/TestFlight-이용가능-blue?logo=apple&logoColor=white)](https://testflight.apple.com/join/QWne6G6V)
+[![TestFlight](https://img.shields.io/badge/TestFlight-이용가능-blue?logo=apple&logoColor=white)](https://testflight.apple.com/join/WpRhUUyp)
 [![Platform](https://img.shields.io/badge/플랫폼-tvOS-lightgrey?logo=apple)](https://developer.apple.com/tvos/)
 [![License](https://img.shields.io/badge/라이선스-클로즈드%20소스-red)](https://github.com/never88gone/HSBTVBrowser)
 [![Telegram](https://img.shields.io/badge/Telegram-그룹%20참여-blue?logo=telegram)](https://t.me/tanghulutvos)
@@ -37,7 +37,7 @@
 
 ## TestFlight URL
 
-<https://testflight.apple.com/join/QWne6G6V>
+<https://testflight.apple.com/join/WpRhUUyp>
 
 ## 조작 방법
 

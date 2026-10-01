@@ -1,6 +1,6 @@
 # Tanghulu Tarayıcı (Tanghulu Browser)
 
-[![TestFlight](https://img.shields.io/badge/TestFlight-Mevcut-blue?logo=apple&logoColor=white)](https://testflight.apple.com/join/QWne6G6V)
+[![TestFlight](https://img.shields.io/badge/TestFlight-Mevcut-blue?logo=apple&logoColor=white)](https://testflight.apple.com/join/WpRhUUyp)
 [![Platform](https://img.shields.io/badge/Platform-tvOS-lightgrey?logo=apple)](https://developer.apple.com/tvos/)
 [![License](https://img.shields.io/badge/Lisans-Kapalı%20Kaynak-red)](https://github.com/never88gone/HSBTVBrowser)
 [![Telegram](https://img.shields.io/badge/Telegram-Gruba%20Katıl-blue?logo=telegram)](https://t.me/tanghulutvos)
@@ -37,7 +37,7 @@ Derin LLM entegrasyonları, cihaz içi yapay zeka uzaktan sinerjisi ve yeni nesi
 
 ## TestFlight URL
 
-<https://testflight.apple.com/join/QWne6G6V>
+<https://testflight.apple.com/join/WpRhUUyp>
 
 ## Kullanım Talimatları
 
